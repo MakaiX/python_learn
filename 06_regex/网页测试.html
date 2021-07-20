@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre style="background:rgb(247,247,247);font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace;font-size:16px;color:rgb(51,51,51);border:none;letter-spacing:.2px;"><code
+        class="lang-python hljs"
+        style="font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace;font-size:.85em;line-height:inherit;color:inherit;background:0px 0px;border:none;"><ol
+        class="hljs-ln"><li><div class="hljs-ln-numbers"><div class="hljs-ln-line hljs-ln-n" data-line-number="1"></div></div><div
+        class="hljs-ln-code"><div class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>mm = <span class="hljs-string" style="color:rgb(113,140,0);"><span
+        class="hljs-string">"c:\\a\\b\\c"</span></span></div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="2"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span class="hljs-meta">&gt;&gt;&gt; </span></span>mm</div></div></li><li><div
+        class="hljs-ln-numbers"><div class="hljs-ln-line hljs-ln-n" data-line-number="3"></div></div><div
+        class="hljs-ln-code"><div class="hljs-ln-line"><span class="hljs-string" style="color:rgb(113,140,0);"><span
+        class="hljs-string">'c:\\a\\b\\c'</span></span></div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="4"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>print(mm)</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="5"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">c:\a\b\c</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="6"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span class="hljs-meta">&gt;&gt;&gt; </span></span>re.match(<span
+        class="hljs-string" style="color:rgb(113,140,0);"><span
+        class="hljs-string">"c:\\\\"</span></span>,mm).group()</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="7"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-string" style="color:rgb(113,140,0);"><span
+        class="hljs-string">'c:\\'</span></span></div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="8"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span class="hljs-meta">&gt;&gt;&gt; </span></span>ret = re.match(<span
+        class="hljs-string" style="color:rgb(113,140,0);"><span
+        class="hljs-string">"c:\\\\"</span></span>,mm).group()</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="9"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>print(ret)</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="10"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">c:\</div></div></li><li><div class="hljs-ln-numbers"><div class="hljs-ln-line hljs-ln-n"
+                                                                                       data-line-number="11"></div></div><div
+        class="hljs-ln-code"><div class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>ret = re.match(<span class="hljs-string"
+                                                                          style="color:rgb(10,2,10);"><span
+        class="hljs-string">"c:\\\\a"</span></span>,mm).group()</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="12"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>print(ret)</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="13"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">c:\a</div></div></li><li><div class="hljs-ln-numbers"><div class="hljs-ln-line hljs-ln-n"
+                                                                                        data-line-number="14"></div></div><div
+        class="hljs-ln-code"><div class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>ret = re.match(<span class="hljs-string"
+                                                                          style="color:rgb(113,140,0);"><span
+        class="hljs-string">r"c:\\a"</span></span>,mm).group()</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="15"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>print(ret)</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="16"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">c:\a</div></div></li><li><div class="hljs-ln-numbers"><div class="hljs-ln-line hljs-ln-n"
+                                                                                        data-line-number="17"></div></div><div
+        class="hljs-ln-code"><div class="hljs-ln-line"><span class="hljs-prompt"><span
+        class="hljs-meta">&gt;&gt;&gt; </span></span>ret = re.match(<span class="hljs-string"
+                                                                          style="color:rgb(113,140,0);"><span
+        class="hljs-string">r"c:\a"</span></span>,mm).group()</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="18"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">Traceback (most recent call last):</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="19"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">  File <span class="hljs-string" style="color:rgb(113,140,0);"><span class="hljs-string">"&lt;stdin&gt;"</span></span>, line <span
+        class="hljs-number" style="color:rgb(245,135,31);"><span class="hljs-number">1</span></span>, <span
+        class="hljs-keyword" style="color:rgb(137,89,168);"><span
+        class="hljs-keyword">in</span></span> &lt;module&gt;</div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="20"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">AttributeError: <span class="hljs-string" style="color:rgb(113,140,0);"><span
+        class="hljs-string">'NoneType'</span></span> object has no attribute <span class="hljs-string"
+                                                                                   style="color:rgb(113,140,0);"><span
+        class="hljs-string">'group'</span></span></div></div></li><li><div class="hljs-ln-numbers"><div
+        class="hljs-ln-line hljs-ln-n" data-line-number="21"></div></div><div class="hljs-ln-code"><div
+        class="hljs-ln-line">&gt;&gt;&gt;</div></div></li></ol></code><div class="hljs-button signin" data-title="登录后复制"
+                                                                           data-report-click="{&quot;spm&quot;:&quot;1001.2101.3001.4259&quot;}"
+                                                                           onclick="hljs.signin(event)"></div></pre>
+
+<p style="color:rgb(51,51,51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;letter-spacing:.2px;">
+    与大多数编程语言相同，<code
+        style="font-family:Consolas, 'Liberation Mono', Menlo, Courier, monospace;color:inherit;background-color:rgb(247,247,247);border:none;">正则表达式里使用"\"作为转义字符</code>，
+    这就可能造成反斜杠困扰。假如你需要匹配文本中的字符"\"，那么使用编程语言表示的正则表达式里将需要4个反斜杠"\\"：前两个和后两个分别用于在编程语言里转义成反斜杠，转换成两个反斜杠后再在正则表达式里转义成一个反斜杠。
+</p>
+<p style="color:rgb(51,51,51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;letter-spacing:.2px;">
+    Python里的原生字符串很好地解决了这个问题，有了原生字符串，你再也不用担心是不是漏写了反斜杠，写出来的表达式也更直观。</p>
+</body>
+</html>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a37aa8e-6eab-41b0-8aa8-b6920907fe3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c6cd150b-ebd3-4dbf-86a7-08afd492c35d" />
+  <component name="ProjectId" id="1flK7B81G8v87BEPNIL3gqvzZ2V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ImportSJZD2Oracle" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python-learn" is-module-sdk="true">
+        <envs>
+          <env key="PATH" value="$USER_HOME$/opt/miniconda3/envs/python3/bin:/Users/mark/opt/miniconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python-learn" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PATH" value="$USER_HOME$/opt/miniconda3/envs/python3/bin:/Users/mark/opt/miniconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ImportSJZD2Oracle" />
+      <recent name="$PROJECT_DIR$/07_webserver" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handle_excle" />
+      <recent name="$PROJECT_DIR$/basis_class" />
+      <recent name="$PROJECT_DIR$/PlaneGame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ImportSJZD">
+    <configuration name="ImportSJZD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImportSJZD2Oracle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImportSJZD2Oracle/ImportSJZD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="北京数据抽取SQL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle_excle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle_excle/北京数据抽取SQL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle_excle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle_excle/create_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="匹配log和xml文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle_excle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle_excle/匹配log和xml文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basis_class/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pandas_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/pandas_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.北京数据抽取SQL" />
+      <item itemvalue="Python.匹配log和xml文件" />
+      <item itemvalue="Python.create_table" />
+      <item itemvalue="Python.pandas_demo" />
+      <item itemvalue="Python.ImportSJZD" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ImportSJZD" />
+        <item itemvalue="Python.pandas_demo" />
+        <item itemvalue="Python.匹配log和xml文件" />
+        <item itemvalue="Python.create_table" />
+        <item itemvalue="Python.北京数据抽取SQL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a37aa8e-6eab-41b0-8aa8-b6920907fe3f" name="Default Changelist" comment="" />
+      <created>1596787070598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596787070598</updated>
+      <workItem from="1596787086343" duration="97000" />
+      <workItem from="1596787253337" duration="7000" />
+      <workItem from="1596787280190" duration="21000" />
+      <workItem from="1596787311943" duration="13000" />
+      <workItem from="1596787347335" duration="163000" />
+      <workItem from="1596788065561" duration="96000" />
+      <workItem from="1596788213258" duration="17000" />
+      <workItem from="1597220669348" duration="910000" />
+      <workItem from="1597222343707" duration="5893000" />
+      <workItem from="1597630065937" duration="10000" />
+      <workItem from="1597630116722" duration="5895000" />
+      <workItem from="1598861925156" duration="396000" />
+      <workItem from="1598862450147" duration="10836000" />
+      <workItem from="1600077488115" duration="6674000" />
+      <workItem from="1600246488583" duration="282000" />
+      <workItem from="1600677646851" duration="597000" />
+      <workItem from="1600850160338" duration="103000" />
+      <workItem from="1600850285267" duration="17000" />
+      <workItem from="1601190168287" duration="3095000" />
+      <workItem from="1603627229570" duration="22369000" />
+      <workItem from="1604449398659" duration="275000" />
+      <workItem from="1604449837977" duration="108000" />
+      <workItem from="1604449977702" duration="192000" />
+      <workItem from="1604539213653" duration="2042000" />
+      <workItem from="1604802682115" duration="15938000" />
+      <workItem from="1604934292342" duration="9300000" />
+      <workItem from="1605425633200" duration="2509000" />
+      <workItem from="1605451256572" duration="11833000" />
+      <workItem from="1606029039163" duration="9911000" />
+      <workItem from="1606274445117" duration="7182000" />
+      <workItem from="1607331828969" duration="617000" />
+      <workItem from="1607333499927" duration="93000" />
+      <workItem from="1607333638617" duration="4509000" />
+      <workItem from="1607853990790" duration="123000" />
+      <workItem from="1607854586455" duration="16551000" />
+      <workItem from="1608887482667" duration="107000" />
+      <workItem from="1608887661209" duration="21000" />
+      <workItem from="1608887714378" duration="551000" />
+      <workItem from="1608888497521" duration="454000" />
+      <workItem from="1609121775486" duration="14000" />
+      <workItem from="1609121870802" duration="32000" />
+      <workItem from="1609122055417" duration="301000" />
+      <workItem from="1609122918359" duration="11000" />
+      <workItem from="1609122956545" duration="350000" />
+      <workItem from="1609123449461" duration="1146000" />
+      <workItem from="1609142024225" duration="4382000" />
+      <workItem from="1609203394097" duration="1162000" />
+      <workItem from="1609247202770" duration="325000" />
+      <workItem from="1610030038015" duration="3885000" />
+      <workItem from="1610252623187" duration="2411000" />
+      <workItem from="1610280476096" duration="9920000" />
+      <workItem from="1610519756065" duration="1845000" />
+      <workItem from="1610529152732" duration="10146000" />
+      <workItem from="1610935257075" duration="29668000" />
+      <workItem from="1611046205338" duration="2407000" />
+      <workItem from="1612852826260" duration="750000" />
+      <workItem from="1615366217899" duration="406000" />
+      <workItem from="1615366820846" duration="47000" />
+      <workItem from="1615368299053" duration="146000" />
+      <workItem from="1615368500365" duration="1006000" />
+      <workItem from="1618991269423" duration="574000" />
+      <workItem from="1624413177127" duration="84000" />
+      <workItem from="1626316238801" duration="361000" />
+      <workItem from="1626316925216" duration="17249000" />
+      <workItem from="1626425562522" duration="3558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="386" key="GridCell.Tab.0.bottom" timestamp="1626352299054">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="295" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1626337896619" />
+    <state width="1750" height="386" key="GridCell.Tab.0.bottom/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299054" />
+    <state width="1750" height="386" key="GridCell.Tab.0.center" timestamp="1626352299053">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="295" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1626337896618" />
+    <state width="1750" height="386" key="GridCell.Tab.0.center/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299053" />
+    <state width="1750" height="386" key="GridCell.Tab.0.left" timestamp="1626352299052">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="295" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1626337896617" />
+    <state width="1750" height="386" key="GridCell.Tab.0.left/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299052" />
+    <state width="1750" height="386" key="GridCell.Tab.0.right" timestamp="1626352299054">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="295" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1626337896618" />
+    <state width="1750" height="386" key="GridCell.Tab.0.right/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299054" />
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom" timestamp="1626352299056">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1626326756579" />
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299056" />
+    <state width="1750" height="386" key="GridCell.Tab.1.center" timestamp="1626352299056">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1626326756578" />
+    <state width="1750" height="386" key="GridCell.Tab.1.center/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299056" />
+    <state width="1750" height="386" key="GridCell.Tab.1.left" timestamp="1626352299055">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1626326756577" />
+    <state width="1750" height="386" key="GridCell.Tab.1.left/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299055" />
+    <state width="1750" height="386" key="GridCell.Tab.1.right" timestamp="1626352299056">
+      <screen x="70" y="25" width="1722" height="1095" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1626326756578" />
+    <state width="1750" height="386" key="GridCell.Tab.1.right/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299056" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle_excle/匹配log和xml文件.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learn$download_excle.coverage" NAME="download_excle Coverage Results" MODIFIED="1604994637817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_process" />
+    <SUITE FILE_PATH="coverage/python_learn$01_.coverage" NAME="01-显示静态页面 Coverage Results" MODIFIED="1605858382363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_webserver" />
+    <SUITE FILE_PATH="coverage/python_learn$create_table.coverage" NAME="create_table Coverage Results" MODIFIED="1611223508932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handle_excle" />
+    <SUITE FILE_PATH="coverage/python_learn$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1604223736963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_network_tcp" />
+    <SUITE FILE_PATH="coverage/python_learn$greenlet_demo.coverage" NAME="greenlet_demo Coverage Results" MODIFIED="1605449229812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Coroutine" />
+    <SUITE FILE_PATH="coverage/python_learn$DictionarySort.coverage" NAME="DictionarySort Coverage Results" MODIFIED="1599129884750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$gevent_demo.coverage" NAME="gevent_demo Coverage Results" MODIFIED="1605452555736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Coroutine" />
+    <SUITE FILE_PATH="coverage/python_learn$pandas_demo.coverage" NAME="pandas_demo Coverage Results" MODIFIED="1615432370544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_learn$01_connect_mysql.coverage" NAME="01_connect_mysql Coverage Results" MODIFIED="1606919583801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_mysqldemo" />
+    <SUITE FILE_PATH="coverage/python_learn$download_client.coverage" NAME="download_client Coverage Results" MODIFIED="1604235279660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_network_tcp" />
+    <SUITE FILE_PATH="coverage/python_learn$ImportSJZD.coverage" NAME="ImportSJZD Coverage Results" MODIFIED="1626429361596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImportSJZD2Oracle" />
+    <SUITE FILE_PATH="coverage/python_learn$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1604930484831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_process" />
+    <SUITE FILE_PATH="coverage/python_learn$PythonThread.coverage" NAME="PythonThread Coverage Results" MODIFIED="1600150400956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$PythonThreadLock.coverage" NAME="PythonThreadLock Coverage Results" MODIFIED="1600140697302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$page15.coverage" NAME="page15 Coverage Results" MODIFIED="1610529587226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_drawwithmatplot" />
+    <SUITE FILE_PATH="coverage/python_learn$download_server.coverage" NAME="download_server Coverage Results" MODIFIED="1604235272251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_network_tcp" />
+    <SUITE FILE_PATH="coverage/python_learn$single_thread.coverage" NAME="single_thread Coverage Results" MODIFIED="1604322846591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_thread" />
+    <SUITE FILE_PATH="coverage/python_learn$socket_demo.coverage" NAME="socket_demo Coverage Results" MODIFIED="1604540549080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_network_udp" />
+    <SUITE FILE_PATH="coverage/python_learn$excle2mysql.coverage" NAME="excle2mysql Coverage Results" MODIFIED="1606891628987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handle_excle" />
+    <SUITE FILE_PATH="coverage/python_learn$thread_run.coverage" NAME="thread_run Coverage Results" MODIFIED="1604323702002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_thread" />
+    <SUITE FILE_PATH="coverage/python_learn$connect_mongodb.coverage" NAME="connect_mongodb Coverage Results" MODIFIED="1608687536676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_mongodb_demo" />
+    <SUITE FILE_PATH="coverage/python_learn$udp_chat.coverage" NAME="udp_chat Coverage Results" MODIFIED="1604821993496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_thread" />
+    <SUITE FILE_PATH="coverage/python_learn$django_demo.coverage" NAME="django_demo Coverage Results" MODIFIED="1607474748930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_learn$main.coverage" NAME="main Coverage Results" MODIFIED="1598862367203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$trian.coverage" NAME="trian Coverage Results" MODIFIED="1599037538362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$SwapJson.coverage" NAME="SwapJson Coverage Results" MODIFIED="1600163767475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1603628485203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PlaneGame" />
+    <SUITE FILE_PATH="coverage/python_learn$pool_queue.coverage" NAME="pool_queue Coverage Results" MODIFIED="1604930432257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_process" />
+    <SUITE FILE_PATH="coverage/python_learn$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1604223870226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_network_tcp" />
+    <SUITE FILE_PATH="coverage/python_learn$Son_Father.coverage" NAME="Son&amp;Father Coverage Results" MODIFIED="1600140606815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$process_queue.coverage" NAME="process_queue Coverage Results" MODIFIED="1604883707748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_process" />
+    <SUITE FILE_PATH="coverage/python_learn$file_copy.coverage" NAME="file_copy Coverage Results" MODIFIED="1605145415110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_process" />
+    <SUITE FILE_PATH="coverage/python_learn$process_demo.coverage" NAME="process_demo Coverage Results" MODIFIED="1604828232333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_process" />
+    <SUITE FILE_PATH="coverage/python_learn$logxml.coverage" NAME="匹配log和xml文件 Coverage Results" MODIFIED="1612852978512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handle_excle" />
+    <SUITE FILE_PATH="coverage/python_learn$regex_demo.coverage" NAME="regex_demo Coverage Results" MODIFIED="1609147046855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_spider" />
+    <SUITE FILE_PATH="coverage/python_learn$03_web_.coverage" NAME="03-web静态服务器-多进程 Coverage Results" MODIFIED="1606143162790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_webserver" />
+    <SUITE FILE_PATH="coverage/python_learn$connect_redis.coverage" NAME="connect_redis Coverage Results" MODIFIED="1607564806523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_learn$02_.coverage" NAME="02-显示想要的页面 Coverage Results" MODIFIED="1606137682451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_webserver" />
+    <SUITE FILE_PATH="coverage/python_learn$thread_globalVar.coverage" NAME="thread_globalVar Coverage Results" MODIFIED="1604449867675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_thread" />
+  </component>
+</project>
