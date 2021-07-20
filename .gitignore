@@ -1,1 +1,4 @@
 venv/*
+venv
+/Users/mark/Documents/Develop/GitRepo/python-learn/venv
+.idea

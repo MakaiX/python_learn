@@ -27,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ImportSJZD2Oracle" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -303,7 +303,7 @@
       <workItem from="1624413177127" duration="84000" />
       <workItem from="1626316238801" duration="361000" />
       <workItem from="1626316925216" duration="17249000" />
-      <workItem from="1626425562522" duration="3558000" />
+      <workItem from="1626425562522" duration="10461000" />
     </task>
     <servers />
   </component>
@@ -351,6 +351,10 @@
     </state>
     <state width="1750" height="386" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1626326756578" />
     <state width="1750" height="386" key="GridCell.Tab.1.right/70.25.1722.1095@70.25.1722.1095" timestamp="1626352299056" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1626789185289">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1626789185289" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
